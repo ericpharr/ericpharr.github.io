@@ -1,0 +1,15 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+	background-color: #333;
+	border-radius: 0;
+	min-height: 40px;
+	box-sizing: border-box;
+}
+
+.card {
+	border: 1px solid #333;
+	text-align: center;
+}
